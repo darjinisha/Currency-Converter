@@ -49,10 +49,19 @@ Make sure you have the following installed:
 
 ### Installation Steps
 
-**Clone the repository:**
+1. **Clone the repository:**
 
-```bash
+````bash
 git clone https://github.com/your-username/currency-converter.git
 cd currency-converter
 
-```
+2. **Install dependencies:**
+
+```bash
+npm install
+
+2. **Install dependencies:**
+
+```bash
+npm run dev
+````
