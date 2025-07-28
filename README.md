@@ -21,12 +21,21 @@ A simple and responsive **Currency Converter** built with **React** and **Tailwi
 
 ---
 
-## 📷 Screenshot
+## 📂 Folder Structure
 
-> Add a screenshot here:  
-> `![App Screenshot](./screenshot.png)`
-
----
+<pre>
+```
+currency-converter/
+├── public/
+│  └── index.html
+├── src/
+│  ├── CurrencyConverter.jsx
+│  ├── index.css
+│  └── index.js
+├── package.json
+└── README.md
+```
+</pre>
 
 ### Prerequisites
 
