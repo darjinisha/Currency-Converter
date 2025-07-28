@@ -28,18 +28,6 @@ A simple and responsive **Currency Converter** built with **React** and **Tailwi
 
 ---
 
-## 📂 Folder Structure
-
-currency-converter/
-├── public/
-│  └── index.html
-├── src/
-│  ├── CurrencyConverter.jsx
-│  ├── index.css
-│  └── index.js
-├── package.json
-└── README.md
-
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -52,16 +40,16 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
 ````bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+- git clone https://github.com/your-username/currency-converter.git
+- cd currency-converter
 
 2. **Install dependencies:**
 
 ```bash
-npm install
+- npm install
 
-2. **Install dependencies:**
+3. ****
 
 ```bash
-npm run dev
+- npm run dev
 ````
