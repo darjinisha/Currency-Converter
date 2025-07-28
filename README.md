@@ -36,29 +36,3 @@ currency-converter/
 └── README.md
 ```
 </pre>
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/)
-- npm or yarn
-
-### Installation Steps
-
-1. **Clone the repository:**
-
-````bash
-- git clone https://github.com/your-username/currency-converter.git
-- cd currency-converter
-
-2. **Install dependencies:**
-
-```bash
-- npm install
-
-3. ****
-
-```bash
-- npm run dev
-````
